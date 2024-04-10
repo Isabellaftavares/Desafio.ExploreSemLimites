@@ -16,4 +16,3 @@ Com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ 
